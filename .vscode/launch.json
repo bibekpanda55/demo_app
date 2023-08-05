@@ -1,0 +1,24 @@
+{
+   
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "trashback_admin_app",
+            "request": "launch",
+            "type": "dart",
+
+        },
+        {
+            "name": "trashback_admin_app (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "trashback_admin_app (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}

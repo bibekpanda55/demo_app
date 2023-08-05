@@ -39,7 +39,7 @@ class HomeScreen extends StatelessWidget {
         ),
         centerTitle: false,
         title: const Text(
-          "Registration",
+          "Dashboard",
           style: TextStyle(color: Colors.white, fontWeight: FontWeight.w600),
         ),
         actions: [
